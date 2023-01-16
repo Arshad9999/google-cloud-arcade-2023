@@ -1,5 +1,22 @@
 New Year, New Skills: Green, Yellow, Red & Blue Challenge (A)
 
+::Green Challenge (A)::
+Data Engineer: Bigtable skills-
+1. Designing and Querying Bigtable Schemas
+2. Creating and Populating a Bigtable Instance
+
+DevOps Engineer: Kubernetes Engine skills-
+1. Cloud Operations for GKE
+2. Using Cloud Trace on Kubernetes Engine
+
+Network Engineer: Cache/cash skills-
+1. Cloud CDN
+2. Network Tiers - Optimizing Network Spend
+
+Explorer: Dialogflow CX skills-
+1. Dialogflow CX: Bot Building Basics
+2. Dialogflow CX: Managing Environments
+
 ::Yellow Challenge (A)::
 
 Data Engineer: Streaming and connection skills-
@@ -22,7 +39,38 @@ Explorer: Multi-cloud skills-
 ::Red Challenge (A)::
 
 Data Engineer: Recovery and security skills-
+1. Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL
+2. Securing a Cloud SQL for PostgreSQL Instance
+
+DevOps Engineer: Load balancer skills-
+1. HTTPS Content-Based Load Balancer with Terraform
+2. Modular Load Balancing with Terraform - Regional Load Balancer
+
+Network Engineer: Traffic flow skills-
+1. Building a High-throughput VPN
+2. VPC Flow Logs - Analyzing Network Traffic
+
+Explorer: Dialogflow CX skills-
+1. Dialogflow CX: Enable IVR Features for your Voice Agent
+2. Dialogflow CX: Parameter Manipulation
+
+
+::Blue Challenge (A)::
+Data Engineer: Bigtable skills-
 1.
 2.
+
+Data Engineer: Bigtable skills-
+1.
+2.
+
+Data Engineer: Bigtable skills-
+1.
+2.
+
+Data Engineer: Bigtable skills-
+1.
+2.
+
 
 not updated yet.
