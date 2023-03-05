@@ -1,0 +1,22 @@
+All the related LABs are mentioned below:-
+
+1. Ramp up! Get familiar with AI Chatbot tech:
+  a. Speech to Text Transcription with the Cloud Speech API
+  b. Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
+  c. Implementing an AI Chatbot with Dialogflow ES
+ 
+2. Contact Center AI:
+  a. Design Conversational Flows for your Agent
+  b. Building Virtual Agent Fulfillment
+  c. Dialogflow Logging and Monitoring in Operations Suite
+  
+3. Conversational AI Agents:
+  a. Dialogflow CX to Firestore using Webhooks to Cloud Functions
+  b. Dialogflow CX: Parameter Manipulation
+  c. Dialogflow CX: Contextual Intents
+  d. Create Conversational AI Agents with Dialogflow CX: Challenge Lab
+  
+4. Citizen Developer: Chatbot Edition:
+  a. AppSheets to Google Chat using Webhooks from Automation Bots
+  b. Google Chat Bot - Apps Script
+
